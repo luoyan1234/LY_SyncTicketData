@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<serviceConfig>
+  <serviceItem 
+    lyConn="Data Source=115.159.146.252;user id =sa;password=Sa_123.;Initial Catalog=leyou"
+    apiName="leyou"
+    apiPassword="gn2!E2BbJF"
+    syncTimeSpan="120"
+    centerUrl="http://interface.fangte.com/ticketserver/" >
+  </serviceItem>
+</serviceConfig>
