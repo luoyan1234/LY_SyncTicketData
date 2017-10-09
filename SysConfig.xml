@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<serviceConfig>
+  <serviceItem 
+    lyConn="Data Source=10.98.0.80;user id =sa;password=Sa_123.;Initial Catalog=leyou"
+    centerConn="Data Source=115.159.62.165;user id =sa;password=Ticket@hytch;Initial Catalog=CenterTicket2011"
+    syncTimeSpan="120" >
+  </serviceItem>
+</serviceConfig>
